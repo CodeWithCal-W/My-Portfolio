@@ -19,4 +19,4 @@ A responsive, modern portfolio website showcasing my skills, projects, and journ
 - **HTML5** (Semantic markup)
 - **CSS3** (Flexbox, Grid, animations)
 - **Font Awesome** (Icons)
-- **GitHub Pages/Netlify** (Hosting)
+- **Netlify** (Hosting) - https://michael-calvin-omondi-portfolio.netlify.app/
