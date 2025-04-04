@@ -1,4 +1,4 @@
-# 🌟 Michael Calvin Omondi - Developer Portfolio
+# 🌟 My Portfolio
 
 A responsive, modern portfolio website showcasing my skills, projects, and journey as a finance professional transitioning into software engineering. Built with HTML and CSS only.
 
